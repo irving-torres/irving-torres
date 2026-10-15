@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Irving 👋
 
-<!--
-**irving-torres/irving-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a San Diego based creator ([@irvingtorresyc](https://www.instagram.com/irvingtorresyc), ~55K followers across TikTok, Instagram, and YouTube) making content about San Diego lifestyle, tech, and sports (Padres, San Diego FC, San Diego Wave FC).
 
-Here are some ideas to get you started:
+I'm not a traditional developer. I'm learning to build with AI assisted coding: web apps first, then iPhone and Mac. I design the system, and an AI coding agent writes the code with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **Creator brand-deal outreach engine** — an AI powered pipeline that vets brand leads, drafts proof-first pitches, and tracks partnership conversations. Built with agentic coding workflows and structured LLM pipelines.
+
+
+## Currently exploring
+
+- AI tooling for creators: lead vetting, outreach drafting, content analysis
+- TypeScript and modern web app fundamentals
+
+## Find me
+
+- 🌐 [irvingtorres.- 🌐- 🌐- [
+
+- 
+
+- 
+
+- 
+
+- 
