@@ -15,13 +15,8 @@ I'm not a traditional developer. I'm learning to build with AI assisted coding: 
 - TypeScript and modern web app fundamentals
 
 ## Find me
-
-- 🌐 [irvingtorres.- 🌐- 🌐- [
-
-- 
-
-- 
-
-- 
-
-- 
+- [irvingtorres.com](https://www.irvingtorres.com/)
+- [linktr.ee/irvingtorres](https://linktr.ee/irvingtorres)
+- [instagram.com/irvingtorresyc](https://www.instagram.com/irvingtorresyc)
+- [tiktok.com/@irving.torres](https://www.tiktok.com/@irving.torres)
+- [youtube.com/@irving.torres](https://www.youtube.com/@irving.torres)
